@@ -1,12 +1,12 @@
 // Array of songs
 const audioFiles = [
-   "music/purrple-cat-green-tea(chosic.com).mp3",
-   "music/Late-at-Night(chosic.com).mp3",
-   "music/Hibiscus-chosic.com_.mp3",
-   "music/Forgotten_Places-chosic.com_.mp3",
-   "music/Daydreams-chosic.com_.mp3",
-   "music/ASHUTOSH-Jaipur(chosic.com).mp3",
-   "music/And-So-It-Begins-Inspired-By-Crush-Sometimes(chosic.com).mp3"
+   "purrple-cat-green-tea(chosic.com).mp3",
+   "Late-at-Night(chosic.com).mp3",
+   "Hibiscus-chosic.com_.mp3",
+   "Forgotten_Places-chosic.com_.mp3",
+   "Daydreams-chosic.com_.mp3",
+   "ASHUTOSH-Jaipur(chosic.com).mp3",
+   "And-So-It-Begins-Inspired-By-Crush-Sometimes(chosic.com).mp3"
 ];
 
 let currentIndex = 0; // Track which song is playing
